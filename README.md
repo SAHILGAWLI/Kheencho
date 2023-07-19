@@ -20,10 +20,16 @@ Modern Video to PDF Scanner is a Python project that converts video files into P
 - Efficient processing using Python and video processing libraries.
 - High-quality output PDF with customizable settings.
 
-## Demo
-[Link to demo video or live demo website]
+## Demo Screenshot
+![Screenshot (2363)](https://github.com/SAHILGAWLI/Kheencho/assets/100032163/e8a12c78-e3f9-4745-8dec-11c1f14d9e6a)
+![Screenshot (2364)](https://github.com/SAHILGAWLI/Kheencho/assets/100032163/3863cca3-e73c-4822-bb9d-79ad6026b556)
+![Screenshot (2365)](https://github.com/SAHILGAWLI/Kheencho/assets/100032163/3b50cbe8-f92c-4c13-a713-ba1e7f1b36e5)
+![Screenshot (2365)](https://github.com/SAHILGAWLI/Kheencho/assets/100032163/56fbd89b-321c-4358-9515-d50faade6948)
 
-![Demo Screenshot](link-to-demo-screenshot.png)
+
+
+
+
 
 ## Installation
 To run the Modern Video to PDF Scanner locally, follow these steps:
